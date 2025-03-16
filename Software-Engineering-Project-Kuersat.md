@@ -16,20 +16,7 @@
 | Ticket [#108](https://github.com/SEPMFWS422A/time2meet/issues/108) <br/> Ticket [#126](https://github.com/SEPMFWS422A/time2meet/issues/126) <br/> --Duplicate-- Ticket [#66](https://github.com/SEPMFWS422A/time2meet/issues/66)  | [d31e4e9](https://github.com/SEPMFWS422A/time2meet/commit/d31e4e9bbe5b22706c6b1c067cacff81b1b5bae9) <br/> [ec879ca](https://github.com/SEPMFWS422A/time2meet/commit/ec879cacb8bf27094d867a2c99543a7ea49d147f) <br/> [e69fd7f](https://github.com/SEPMFWS422A/time2meet/commit/e69fd7f6b77ac339861287efc557f49f7b19b0df) <br/> [2565c55](https://github.com/SEPMFWS422A/time2meet/commit/2565c55f415fa131c2388f386c079797d33e5ffd)  | Alle Commits: 100% |
 | Ticket [#57](https://github.com/SEPMFWS422A/time2meet/issues/57)  | [6846749](https://github.com/SEPMFWS422A/time2meet/commit/6846749565f80d9859540134e062e5edecd4e5a9) <br/> [a96e603](https://github.com/SEPMFWS422A/time2meet/commit/a96e60390ba904c2aae3cb3063cee0287a0738e6) <br/> [eb5356f](https://github.com/SEPMFWS422A/time2meet/commit/eb5356f8146c585dff6960b1b3d4999eff1c5160) <br/> [f49a029](https://github.com/SEPMFWS422A/time2meet/commit/f49a029b0264e5043eceaa30249097fb25f13c6d) <br/> [83df405](https://github.com/SEPMFWS422A/time2meet/commit/83df405b9864fc240ba13f86fddff98edb5b0c57) <br/> [10689fb](https://github.com/SEPMFWS422A/time2meet/commit/10689fb712d20a79fe2f8743cb82ff651665d47b) | Alle Commits: 100% |
 |(nicht nennenswert)Ticket [#118](https://github.com/SEPMFWS422A/time2meet/issues/118) | [f1558b4](https://github.com/SEPMFWS422A/time2meet/commit/f1558b46d84ee81adeb9b56a119c36e6c59880c2) |  Alle Commits: 100% |
-
-Ticket [#118](https://github.com/SEPMFWS422A/time2meet/issues/118) --> kleines Ticket button entfernen
-
-
-Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) --> Kanban erstellt
-
-
-Ticket [#57](https://github.com/SEPMFWS422A/time2meet/issues/57) --> Statische Seite Profilsettings
-
-
-Ticket [#98](https://github.com/SEPMFWS422A/time2meet/issues/98) Ticket [#58](https://github.com/SEPMFWS422A/time2meet/issues/58) --> API User gebaut und ins Fronted Profilsettings hinzugefügt
-
-
-Ticket [#108](https://github.com/SEPMFWS422A/time2meet/issues/108) Ticket [#126](https://github.com/SEPMFWS422A/time2meet/issues/126)--> API freunde / Implementierung Frontend
+|(nicht nennenswert)Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) | Siehe Kanbanboard |  Siehe Kanbanboard |
 
 
 ### Tickets mit Punkteverteilung
