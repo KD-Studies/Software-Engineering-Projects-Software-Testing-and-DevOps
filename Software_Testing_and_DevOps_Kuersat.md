@@ -13,30 +13,44 @@
 
 ### Ticket #59
 **Ziel:** 
+- Es sollte für die Komponente Profilsetting eine Umfassende End To End Test mit Cypress geschrieben werden
+- Alle Commits in der Tabelle bilden das Ziel ab  
 
 
 ### Ticket #139
 **Ziel:** 
+- Es sollte für die Komponente Friendlist eine Umfassende End To End Test mit Cypress geschrieben werden
+- Alle Commits in der Tabelle bilden das Ziel ab  
+
 
 
 ### Ticket #140
 **Ziel:** 
-
+- Es sollte für die gesamtes Freundes API eine Umfassende Unit mit Jest geschrieben werden
+- Alle Commits in der Tabelle bilden das Ziel ab  
 
 ### Ticket #141
 **Ziel:** 
+- Es sollte für die gesamtes User API eine Umfassende Unit mit Jest geschrieben werden
+- Alle Commits in der Tabelle bilden das Ziel ab  
 
 
 ### Ticket #142
 **Ziel:** 
+- Hier sollte nur die Get Anfrage der Umfrageliste geprüft werden mit jest
+- Alle Commits in der Tabelle bilden das Ziel ab  
 
 
 ### Ticket #176
 **Ziel:** 
+-  Hier sollte die Integrationstest für Freundliste erstellt werden
+- Alle Commits in der Tabelle bilden das Ziel ab
 
 
 ### Ticket #177
 **Ziel:** 
+-  Hier sollte die Integrationstest für Profilsettings erstellt werden
+- Alle Commits in der Tabelle bilden das Ziel ab 
 
 
 ### Tickets mit Punkteverteilung
@@ -46,8 +60,14 @@
 | Ticket [#106](https://github.com/SEPMFWS422A/time2meet/issues/106)  | [a3d0a54](https://github.com/SEPMFWS422A/time2meet/commit/a3d0a54aa151978879f054d8a7e30f59ab3d61ea) | Alle Commits 33.3% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki; Timo Neuhaus |
 
 ### Ticket #13
-**Ziel:** 
+**Ziel:**
+- Es sollte für die Generierung des .ics Dateis die Integrations Test erstellt werden.
+- Zum damaligen Zeitpunkt wurde der Test mit Cypress geschrieben
+- Alle Commits in der Tabelle bilden das Ziel ab und ist als ganzes Ticket zu bewerten mit dem Anteil 50/50 Kürsat Darcan / Timo Neuhaus
 
 
 ### Ticket #106
 **Ziel:** 
+- Ziel war es das Framework Jest ins Anwendung aufzunehmen.
+- Per Pair Programming wurde das auf einem Rechner gemacht und hinzugefügt
+- Alle Commits in der Tabelle bilden das Ziel ab und ist als ganzes Ticket zu bewerten mit dem Anteil 33.3% Kürsat Darcan / Timo Neuhaus / Mohamed El Marraki
