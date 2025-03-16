@@ -106,7 +106,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 | Ticket [#101](https://github.com/SEPMFWS422A/time2meet/issues/101) | [d5c7203](https://github.com/SEPMFWS422A/time2meet/commit/d5c7203a68af9c43d330606792c6a1fae2801aed) <br/> [0c14c0d](https://github.com/SEPMFWS422A/time2meet/commit/0c14c0d016ee0a4fd544e1ca8e49384255c15e41) | Alle Commits 33.3% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki; Timo Neuhaus |
 | Ticket [#124](https://github.com/SEPMFWS422A/time2meet/issues/124) | [0fd9568](https://github.com/SEPMFWS422A/time2meet/commit/0fd95687de0796ea9a0ffab097bb282463da446a) | Alle Commits 50% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki |
 
-## Ticket #21
+### Ticket #21
 **Ziel:**  
 - Die Datenbank soll mit der Anwendung verbunden werden  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki, Timo Neuhaus (alle gleich beteiligt, siehe Tabelle)  
@@ -115,7 +115,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Pair Programming wurde verwendet, um die Datenbanken hinzuzufügen  
 
 
-## Ticket #103
+### Ticket #103
 **Ziel:**  
 - Schema für Gruppen erstellen, das vorgibt, wie eine Gruppe aufgebaut ist  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki, Timo Neuhaus (alle gleich beteiligt, siehe Tabelle)  
@@ -124,7 +124,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Umsetzung durch Pair Programming  
 
 
-## Ticket #97
+### Ticket #97
 **Ziel:**  
 - Schema für User erstellen, das vorgibt, wie ein User aufgebaut ist  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki, Timo Neuhaus (alle gleich beteiligt, siehe Tabelle)  
@@ -133,7 +133,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Schema entsprechend hinzugefügt  
 
 
-## Ticket #99
+### Ticket #99
 **Ziel:**  
 - Schema für Events erstellen, das vorgibt, wie ein Event aufgebaut ist  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki, Timo Neuhaus (alle gleich beteiligt, siehe Tabelle)  
@@ -142,7 +142,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Schema entsprechend hinzugefügt  
 
 
-## Ticket #06
+### Ticket #06
 **Ziel:**  
 - Erster MVP von Time2Meet erstellen  
 - Vorgehen:  
@@ -152,7 +152,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Besprochen, welche Tools und Komponenten (z. B. Kalender) verwendet werden sollen  
 
 
-## Ticket #07
+### Ticket #07
 **Ziel:**  
 - Events aus dem Kalender als `.ics`-Datei exportieren können  
 - Beteiligte: Kürsat Darcan, Timo Neuhaus (beide gleich beteiligt, siehe Tabelle)  
@@ -161,7 +161,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Ziel: Statische Events exportieren als `.ics`-Datei  
 
 
-## Ticket #101
+### Ticket #101
 **Ziel:**  
 - Schema für Umfragen erstellen, das vorgibt, wie eine Umfrage aufgebaut ist  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki, Timo Neuhaus (alle gleich beteiligt, siehe Tabelle)  
@@ -170,7 +170,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Schema entsprechend hinzugefügt  
 
 
-## Ticket #124
+### Ticket #124
 **Ziel:**  
 - Bugfix: Nach Logout konnte man mit dem Zurück-Button wieder auf die Seiten zugreifen, ohne sich anzumelden  
 - Beteiligte: Kürsat Darcan, Mohamed El Marraki (beide gleich beteiligt, siehe Tabelle)  
