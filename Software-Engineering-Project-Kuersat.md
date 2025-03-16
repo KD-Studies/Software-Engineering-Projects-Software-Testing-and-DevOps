@@ -15,35 +15,88 @@
 |(nicht nennenswert)Ticket [#118](https://github.com/SEPMFWS422A/time2meet/issues/118) | [f1558b4](https://github.com/SEPMFWS422A/time2meet/commit/f1558b46d84ee81adeb9b56a119c36e6c59880c2) |  Alle Commits: 100% |
 |(nicht nennenswert)Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) | Siehe Kanbanboard |  Siehe Kanbanboard |
 
+## Ticket #129
+**Ziel:**  
+- Ursprünglich war geplant, dass für die Umfrageseite zwei APIs hinzugefügt werden sollen:  
+  - Eine API für alle Umfragen, bei denen man Creator ist  
+  - Eine API für alle Umfragen, bei denen man Teilnehmer ist  
 
-**Ticket #129** <br/>
-**Ziel:** ursprunglich war geplannt das für die Umfrage seite zwei APIs hinzugefügt werden sollte die dafür zuständig sind das man alle umfragen sieht wo man Creator ist und alle Umfragen sieht wo man Teilnehmer ist. <br/>
-**Commit**: <br/>
- **0c14c0d**: es wurden die zwei APIs erstellt, in dem zum einen von dem aktuellen Benutzer die Umfragen zurück bekommt wo man Creator ist und zum anderen Teilnehmer ist <br/>
- **0d96967**: Nach rücksprache mit Finn Leo Katzenberger; wollte er nur ein API wo der aktuelle benutzer nach Teilnehmer gefiltert wird und dann im Frontend die Umfragen filtert nach dem Creator wo der Aktuelle User als Creator eingetragen ist <br/>
-**14c872b**: Problem musste behoben werden, das die API die Umfragen nicht finden konnte, da er keine Object ID lesen konnte und dem Entsprechend die Umfragen nicht finden konnte; Finn leo hat bei der Rechereche geholfen wie man es lösen könnte. 
-<br/>
-**Ticket #98 Ticket #58** <br/>
-Ticket #58 wurde im Ticket #98 mitbearbeitet. <br/>
-**Ziel:** Es sollten die APIS für User geschrieben werden, das man einen User erstellen/Bearbeiten und löschen könnte; Zusätzlich sollte die Anbindung ans Profilsetting(Ticket #58) gemacht werden. <br/>
-Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
-<br/>
-**Ticket #108 Ticket #126**<br/>
-Ticket #126 wurde im Ticket #108 mitbearbeitet, daher befindet sich nur die verbesserung als Commit in Ticket #126 commitet <br/>
-**Ziel:** Es sollte die APIs Für Freundegeschrieben werden, das man Freunde hinzufügen kann entfernen kann und favorisieren kann; Zusätzlich sollte die Anbindung ans Friendlist (Ticket #126) gemacht werden. <br/>
-Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
-<br/>
-**Ticket #57**
-**Ziel:** Es sollte fürs MVP die Seite Profilsettings erstellt werden. die folgende eigenschaften beinhaltet haben sollte: Profilbild; Vorname; Nachname; Benutzername; E-Mail-Adresse; Telefonnummer; Geburtsdatum; Profil-Sichtbarkeit; Kalender-Sichtbarkeit; Theme; und die möglichkeit sollte geboten werden, das man sein passwort ändern kann.<br/>
-Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
-<br/>
-**Ticket #118**
-**Ziel:** Nachdem das Login stand sollte vom Navbar das Sign Out Button entfernt werden. <br/>
-Das Commit die in der Tabelle aufgelistet ist bildet das Ziel ist ab.
-<br/>
-**Ticket #2**
-**Ziel:** Es sollte fürs Ticket Übersicht ein Kanbanboard erstellen werden. <br/>
-Siehe [Link](https://github.com/orgs/SEPMFWS422A/projects/1):
+**Commits:**  
+- `0c14c0d`:  
+  - Zwei APIs erstellt  
+  - API 1: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Creator ist  
+  - API 2: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Teilnehmer ist  
+
+- `0d96967`:  
+  - Nach Rücksprache mit Finn Leo Katzenberger:  
+    - Nur eine API bleibt erhalten  
+    - Diese filtert nach Teilnehmern  
+    - Frontend filtert dann selbst nach dem Creator, bei dem der aktuelle User eingetragen ist  
+
+- `14c872b`:  
+  - Problem: API konnte Umfragen nicht finden, da keine ObjectID gelesen werden konnte  
+  - Lösung mit Hilfe von Finn Leo Katzenberger recherchiert und implementiert  
+
+---
+
+## Ticket #98 & Ticket #58
+_Ticket #58 wurde im Ticket #98 mitbearbeitet_
+
+**Ziel:**  
+- APIs für User erstellen:  
+  - User erstellen  
+  - User bearbeiten  
+  - User löschen  
+- Anbindung ans Profilsetting (Ticket #58)  
+- Alle Commits in der Tabelle bilden das Ziel ab  
+
+---
+
+## Ticket #108 & Ticket #126
+_Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde in Ticket #126 committet_
+
+**Ziel:**  
+- APIs für Freunde schreiben:  
+  - Freunde hinzufügen  
+  - Freunde entfernen  
+  - Freunde favorisieren  
+- Anbindung an Friendlist (Ticket #126)  
+- Alle Commits in der Tabelle bilden das Ziel ab  
+
+---
+
+## Ticket #57
+**Ziel:**  
+- Profilsettings-Seite fürs MVP erstellen  
+- Enthaltene Eigenschaften:  
+  - Profilbild  
+  - Vorname  
+  - Nachname  
+  - Benutzername  
+  - E-Mail-Adresse  
+  - Telefonnummer  
+  - Geburtsdatum  
+  - Profil-Sichtbarkeit  
+  - Kalender-Sichtbarkeit  
+  - Theme  
+  - Möglichkeit, Passwort zu ändern  
+- Alle Commits in der Tabelle bilden das Ziel ab  
+
+---
+
+## Ticket #118
+**Ziel:**  
+- Nach Fertigstellung des Logins:  
+  - Sign-Out-Button aus der Navbar entfernen  
+- Commit in der Tabelle bildet das Ziel ab  
+
+---
+
+## Ticket #2
+**Ziel:**  
+- Kanbanboard für Ticket-Übersicht erstellen  
+- Siehe [Link](https://github.com/orgs/SEPMFWS422A/projects/1)
+
 
 
 ### **Tickets mit Punkteverteilung**
