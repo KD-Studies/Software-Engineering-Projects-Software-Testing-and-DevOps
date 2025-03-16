@@ -11,6 +11,33 @@
 | Ticket [#176](https://github.com/SEPMFWS422A/time2meet/issues/176)  | [7eaa54a](https://github.com/SEPMFWS422A/time2meet/commit/7eaa54a733bff7a612501b6dc025e2616284c39b)  | Alle Commits: 100% |
 | Ticket [#177](https://github.com/SEPMFWS422A/time2meet/issues/177)  | [782167f](https://github.com/SEPMFWS422A/time2meet/commit/782167f14668012d57403058a55379f891b945b4)  | Alle Commits: 100% |
 
+### Ticket #59
+**Ziel:** 
+
+
+### Ticket #139
+**Ziel:** 
+
+
+### Ticket #140
+**Ziel:** 
+
+
+### Ticket #141
+**Ziel:** 
+
+
+### Ticket #142
+**Ziel:** 
+
+
+### Ticket #176
+**Ziel:** 
+
+
+### Ticket #177
+**Ziel:** 
+
 
 ### Tickets mit Punkteverteilung
 | Tickets  | Commits | Anteil |
