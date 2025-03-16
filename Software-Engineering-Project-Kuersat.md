@@ -15,7 +15,7 @@
 |(nicht nennenswert)Ticket [#118](https://github.com/SEPMFWS422A/time2meet/issues/118) | [f1558b4](https://github.com/SEPMFWS422A/time2meet/commit/f1558b46d84ee81adeb9b56a119c36e6c59880c2) |  Alle Commits: 100% |
 |(nicht nennenswert)Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) | Siehe Kanbanboard |  Siehe Kanbanboard |
 
-## Ticket #129
+### Ticket #129
 **Ziel:**  
 - Ursprünglich war geplant, dass für die Umfrageseite zwei APIs hinzugefügt werden sollen:  
   - Eine API für alle Umfragen, bei denen man Creator ist  
@@ -37,9 +37,8 @@
   - Problem: API konnte Umfragen nicht finden, da keine ObjectID gelesen werden konnte  
   - Lösung mit Hilfe von Finn Leo Katzenberger recherchiert und implementiert  
 
----
 
-## Ticket #98 & Ticket #58
+### Ticket #98 & Ticket #58
 _Ticket #58 wurde im Ticket #98 mitbearbeitet_
 
 **Ziel:**  
@@ -50,9 +49,8 @@ _Ticket #58 wurde im Ticket #98 mitbearbeitet_
 - Anbindung ans Profilsetting (Ticket #58)  
 - Alle Commits in der Tabelle bilden das Ziel ab  
 
----
 
-## Ticket #108 & Ticket #126
+### Ticket #108 & Ticket #126
 _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde in Ticket #126 committet_
 
 **Ziel:**  
@@ -63,9 +61,8 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Anbindung an Friendlist (Ticket #126)  
 - Alle Commits in der Tabelle bilden das Ziel ab  
 
----
 
-## Ticket #57
+### Ticket #57
 **Ziel:**  
 - Profilsettings-Seite fürs MVP erstellen  
 - Enthaltene Eigenschaften:  
@@ -82,23 +79,21 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Möglichkeit, Passwort zu ändern  
 - Alle Commits in der Tabelle bilden das Ziel ab  
 
----
 
-## Ticket #118
+### Ticket #118
 **Ziel:**  
 - Nach Fertigstellung des Logins:  
   - Sign-Out-Button aus der Navbar entfernen  
 - Commit in der Tabelle bildet das Ziel ab  
 
----
 
-## Ticket #2
+### Ticket #2
 **Ziel:**  
 - Kanbanboard für Ticket-Übersicht erstellen  
 - Siehe [Link](https://github.com/orgs/SEPMFWS422A/projects/1)
 
 
-
+---
 ### **Tickets mit Punkteverteilung**
 | Tickets  | Commits | Anteil |
 | ------------- | ------------- | ------------- |
