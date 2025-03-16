@@ -45,3 +45,9 @@
 | Ticket [#13](https://github.com/SEPMFWS422A/time2meet/issues/13)  | [1e5371b](https://github.com/SEPMFWS422A/time2meet/commit/1e5371b5d3552a5f3181461e407d2b6f0993f998#diff-4bf4596fa480c7d7d1fd4610517b5dbdda5315e292c9e0f9bf86e688b6cad4f2) <br/> [9b844c4](https://github.com/SEPMFWS422A/time2meet/commit/9b844c4bee6cf7061eaa74266988727df781e3ed)  | Alle Commits 50% aufgeteilt mit Kürsat Darcan; Timo Neuhaus |
 | Ticket [#106](https://github.com/SEPMFWS422A/time2meet/issues/106)  | [a3d0a54](https://github.com/SEPMFWS422A/time2meet/commit/a3d0a54aa151978879f054d8a7e30f59ab3d61ea) | Alle Commits 33.3% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki; Timo Neuhaus |
 
+### Ticket #13
+**Ziel:** 
+
+
+### Ticket #106
+**Ziel:** 
