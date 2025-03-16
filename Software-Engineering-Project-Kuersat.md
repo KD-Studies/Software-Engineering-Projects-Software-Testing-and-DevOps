@@ -1,13 +1,10 @@
 # Ausarbeitung des Projekts
 ## Software Engineering
 * Ticketverwaltung
-  | Tickets  |  
-  | ------------- |  
-  | Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2)  |  
-  | Content Cell  | 
-
-* retroperspektiv teilgenommen
+  --> ich habe (wie auch durch einigen Tickets zu erkennen ist) Aufgaben bzw. Reviews verteilt 
+* Retroperspektiv teilgenommen von Finn Leo Katzenberger
 * Kundenreview teilgenommen / vorgestellt
+* Teilnahme am Weekly
 ### **Tickets alleine gemacht**
 | Tickets  | Commits | Anteil |
 | ------------- | ------------- | ------------- |
@@ -17,6 +14,36 @@
 | Ticket [#57](https://github.com/SEPMFWS422A/time2meet/issues/57)  | [6846749](https://github.com/SEPMFWS422A/time2meet/commit/6846749565f80d9859540134e062e5edecd4e5a9) <br/> [a96e603](https://github.com/SEPMFWS422A/time2meet/commit/a96e60390ba904c2aae3cb3063cee0287a0738e6) <br/> [eb5356f](https://github.com/SEPMFWS422A/time2meet/commit/eb5356f8146c585dff6960b1b3d4999eff1c5160) <br/> [f49a029](https://github.com/SEPMFWS422A/time2meet/commit/f49a029b0264e5043eceaa30249097fb25f13c6d) <br/> [83df405](https://github.com/SEPMFWS422A/time2meet/commit/83df405b9864fc240ba13f86fddff98edb5b0c57) <br/> [10689fb](https://github.com/SEPMFWS422A/time2meet/commit/10689fb712d20a79fe2f8743cb82ff651665d47b) | Alle Commits: 100% |
 |(nicht nennenswert)Ticket [#118](https://github.com/SEPMFWS422A/time2meet/issues/118) | [f1558b4](https://github.com/SEPMFWS422A/time2meet/commit/f1558b46d84ee81adeb9b56a119c36e6c59880c2) |  Alle Commits: 100% |
 |(nicht nennenswert)Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) | Siehe Kanbanboard |  Siehe Kanbanboard |
+
+
+**Ticket #129** <br/>
+**Ziel:** ursprunglich war geplannt das für die Umfrage seite zwei APIs hinzugefügt werden sollte die dafür zuständig sind das man alle umfragen sieht wo man Creator ist und alle Umfragen sieht wo man Teilnehmer ist. <br/>
+**Commit**: <br/>
+ **0c14c0d**: es wurden die zwei APIs erstellt, in dem zum einen von dem aktuellen Benutzer die Umfragen zurück bekommt wo man Creator ist und zum anderen Teilnehmer ist <br/>
+ **0d96967**: Nach rücksprache mit Finn Leo Katzenberger; wollte er nur ein API wo der aktuelle benutzer nach Teilnehmer gefiltert wird und dann im Frontend die Umfragen filtert nach dem Creator wo der Aktuelle User als Creator eingetragen ist <br/>
+**14c872b**: Problem musste behoben werden, das die API die Umfragen nicht finden konnte, da er keine Object ID lesen konnte und dem Entsprechend die Umfragen nicht finden konnte; Finn leo hat bei der Rechereche geholfen wie man es lösen könnte. 
+<br/>
+**Ticket #98 Ticket #58** <br/>
+Ticket #58 wurde im Ticket #98 mitbearbeitet. <br/>
+**Ziel:** Es sollten die APIS für User geschrieben werden, das man einen User erstellen/Bearbeiten und löschen könnte; Zusätzlich sollte die Anbindung ans Profilsetting(Ticket #58) gemacht werden. <br/>
+Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
+<br/>
+**Ticket #108 Ticket #126**<br/>
+Ticket #126 wurde im Ticket #108 mitbearbeitet, daher befindet sich nur die verbesserung als Commit in Ticket #126 commitet <br/>
+**Ziel:** Es sollte die APIs Für Freundegeschrieben werden, das man Freunde hinzufügen kann entfernen kann und favorisieren kann; Zusätzlich sollte die Anbindung ans Friendlist (Ticket #126) gemacht werden. <br/>
+Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
+<br/>
+**Ticket #57**
+**Ziel:** Es sollte fürs MVP die Seite Profilsettings erstellt werden. die folgende eigenschaften beinhaltet haben sollte: Profilbild; Vorname; Nachname; Benutzername; E-Mail-Adresse; Telefonnummer; Geburtsdatum; Profil-Sichtbarkeit; Kalender-Sichtbarkeit; Theme; und die möglichkeit sollte geboten werden, das man sein passwort ändern kann.<br/>
+Alle Commits die in der Tabelle aufgelistet ist bildet  das Ziel ist ab.
+<br/>
+**Ticket #118**
+**Ziel:** Nachdem das Login stand sollte vom Navbar das Sign Out Button entfernt werden. <br/>
+Das Commit die in der Tabelle aufgelistet ist bildet das Ziel ist ab.
+<br/>
+**Ticket #2**
+**Ziel:** Es sollte fürs Ticket Übersicht ein Kanbanboard erstellen werden. <br/>
+Siehe [Link](https://github.com/orgs/SEPMFWS422A/projects/1):
 
 
 ### **Tickets mit Punkteverteilung**
