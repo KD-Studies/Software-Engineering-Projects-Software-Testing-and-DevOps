@@ -21,18 +21,3 @@ Ticket [#119](https://github.com/SEPMFWS422A/time2meet/issues/119) --> Qualität
 | Ticket[#13](https://github.com/SEPMFWS422A/time2meet/issues/13)  | [1e5371b](https://github.com/SEPMFWS422A/time2meet/commit/1e5371b5d3552a5f3181461e407d2b6f0993f998#diff-4bf4596fa480c7d7d1fd4610517b5dbdda5315e292c9e0f9bf86e688b6cad4f2) <br/> [9b844c4](https://github.com/SEPMFWS422A/time2meet/commit/9b844c4bee6cf7061eaa74266988727df781e3ed)  | 
 
 Ticket [#13](https://github.com/SEPMFWS422A/time2meet/issues/13) --> Integration Test
-
-
-
-
-<br /><br /><br />Unterschrift: <br />
-Kürsat Darcan <br /><br /><br /><br />
--------------------------<br />
-Mohamed El Marraki <br /><br /><br /><br />
--------------------------<br />
-Christian Huwendiek <br /><br /><br /><br />
--------------------------<br />
-Finn Leo Katzenberger <br /><br /><br /><br />
--------------------------<br />
-Ileana Staimann <br /><br /><br /><br />
--------------------------<br />

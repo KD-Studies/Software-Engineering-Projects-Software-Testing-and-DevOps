@@ -8,7 +8,7 @@
 
 * retroperspektiv teilgenommen
 * Kundenreview teilgenommen / vorgestellt
-### Tickets alleine gemacht
+### **Tickets alleine gemacht**
 | Tickets  | Commits | Anteil |
 | ------------- | ------------- | ------------- |
 | Ticket [#129](https://github.com/SEPMFWS422A/time2meet/issues/129)  | [0c14c0d](https://github.com/SEPMFWS422A/time2meet/commit/0c14c0d016ee0a4fd544e1ca8e49384255c15e41) <br/> [0d96967](https://github.com/SEPMFWS422A/time2meet/commit/0d96967634c9ae03f78b74f8f58e9f55d2c77bff) <br/> [14c872b](https://github.com/SEPMFWS422A/time2meet/commit/14c872b25809254b388bad46e4ef79260035ce60)| 100% <br/> 100% <br/> 50% Kürsat Darcan / 50% Finn Leo Katzenberger |
@@ -19,7 +19,7 @@
 |(nicht nennenswert)Ticket [#2](https://github.com/SEPMFWS422A/time2meet/issues/2) | Siehe Kanbanboard |  Siehe Kanbanboard |
 
 
-### Tickets mit Punkteverteilung
+### **Tickets mit Punkteverteilung**
 | Tickets  | Commits | 
 | ------------- | ------------- | 
 | Ticket [#21](https://github.com/SEPMFWS422A/time2meet/issues/21)  | [f28372d](https://github.com/SEPMFWS422A/time2meet/commit/f28372d84a78790cbfc96963c7b554484a026ac5) <br/> [a5a44c6](https://github.com/SEPMFWS422A/time2meet/commit/a5a44c66571285d8792975fa6d080b4756a650e6) |
@@ -31,36 +31,3 @@
 | Ticket [#101](https://github.com/SEPMFWS422A/time2meet/issues/101) | [d5c7203](https://github.com/SEPMFWS422A/time2meet/commit/d5c7203a68af9c43d330606792c6a1fae2801aed) <br/> [0c14c0d](https://github.com/SEPMFWS422A/time2meet/commit/0c14c0d016ee0a4fd544e1ca8e49384255c15e41)  | 
 | Ticket [#124](https://github.com/SEPMFWS422A/time2meet/issues/124) | [0fd9568](https://github.com/SEPMFWS422A/time2meet/commit/0fd95687de0796ea9a0ffab097bb282463da446a) |
 
-
-Ticket [#101](https://github.com/SEPMFWS422A/time2meet/issues/101) --> Schema Umfrage
-
-
-Ticket [#124](https://github.com/SEPMFWS422A/time2meet/issues/124) --> Sicherheitslücke
-
-
-Ticket [#21](https://github.com/SEPMFWS422A/time2meet/issues/21) --> Implementierung Datenbanken
-
-
-Ticket [#103](https://github.com/SEPMFWS422A/time2meet/issues/103) --> Gruppen Schema
-
-
-Ticket [#97](https://github.com/SEPMFWS422A/time2meet/issues/97) --> Users Schema
-
-
-Ticket [#99](https://github.com/SEPMFWS422A/time2meet/issues/99) --> Events Schema
-
-
-
-
-
-<br /><br /><br />Unterschrift: <br />
-Kürsat Darcan <br /><br /><br /><br />
--------------------------<br />
-Mohamed El Marraki <br /><br /><br /><br />
--------------------------<br />
-Christian Huwendiek <br /><br /><br /><br />
--------------------------<br />
-Finn Leo Katzenberger <br /><br /><br /><br />
--------------------------<br />
-Ileana Staimann <br /><br /><br /><br />
--------------------------<br />
