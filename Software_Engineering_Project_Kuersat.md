@@ -81,12 +81,15 @@ _Ticket #58 wurde im Ticket #98 mitbearbeitet_
   - Installation von axios
   - Initiale Erstellung der APIs für User
   - Anbindung der User APIs in Profilsetting
-<br/>`e1cb7bb`:<br/>
+<br/>
+`e1cb7bb`:<br/>
   - Das hinzufügen des Decode fürs entschlüssen des Tokens
   - Anpassung des API Strukturs
-<br/>`e9c68b6`:<br/>
+<br/>
+`e9c68b6`:<br/>
   - Anpassung am API und der Struktur
-<br/>`9e5fe56`:<br/>
+<br/>
+`9e5fe56`:<br/>
   - Verbesserungsvorschlag vom Review übernommen
 
 
@@ -107,12 +110,14 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 `d31e4e9`:<br/>
   - Initiale hinzufügen vom Freundes API (get anfrage)
   - Initiale Anbindung ans Friendlist
-<br/>`ec879ca`:<br/>
+<br/>
+`ec879ca`:<br/>
   - weitere API anbindungen search => user; remove => Remove Friend; add => Add Friend
   - API Struktur angepasst
   - Weitere Komponente erstellt für die suche von Benutzer (direkte anbindung an search api)
   - Friendlist angepasst, das diese sich dynamisch anpasst
-<br/>`e69fd7f` & `2565c55`:<br/>
+<br/>
+`e69fd7f` & `2565c55`:<br/>
   - Kleine Anpassungen am Code vorgenommen (Performenz & Warning entfernt)
 
 ---
@@ -139,12 +144,14 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Zwei APIs erstellt  
   - API 1: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Creator ist  
   - API 2: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Teilnehmer ist  
-<br/>`0d96967`:  <br/>
+<br/>
+`0d96967`:  <br/>
   - Nach Rücksprache mit Finn Leo Katzenberger:  
     - Nur eine API bleibt erhalten  
     - Diese filtert nach Teilnehmern  
     - Frontend filtert dann selbst nach dem Creator, bei dem der aktuelle User eingetragen ist  
-<br/>`14c872b`:  <br/>
+<br/>
+`14c872b`:  <br/>
   - Problem: API konnte Umfragen nicht finden, da keine ObjectID gelesen werden konnte  
   - Finn Leo Katzenberger hat bei der Recherche geholfen
 
