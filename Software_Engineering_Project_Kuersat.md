@@ -162,8 +162,6 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Problem: API konnte Umfragen nicht finden, da keine ObjectID gelesen werden konnte  
   - Finn Leo Katzenberger hat bei der Recherche geholfen
 
-
-
 ---
 ### **Tickets mit Punkteverteilung**
 | Tickets  | Commits | Anteil |
@@ -178,7 +176,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 | Ticket [#124](https://github.com/SEPMFWS422A/time2meet/issues/124) | [0fd9568](https://github.com/SEPMFWS422A/time2meet/commit/0fd95687de0796ea9a0ffab097bb282463da446a) | Alle Commits 50% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki |
 
 
-
+---
 ### Ticket #06
 **Ziel:**  
 - Erster MVP von Time2Meet erstellen  
@@ -187,7 +185,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Nur bei diesem Commit beteiligt  
   - Mob Programming vor Ort betrieben  
   - Besprochen, welche Tools und Komponenten (z. B. Kalender) verwendet werden sollen  
-
+---
 
 ### Ticket #07
 **Ziel:**  
@@ -204,7 +202,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 
 `1a7409f` & `36d2e45`: <br/>
   - Kleine Anpassung der Struktur
-
+---
 
 ### Ticket #21
 **Ziel:**  
@@ -221,7 +219,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 
 `a5a44c6`: <br/>
   - Anpassung der Datenbanken verbindung
-
+---
 ### Ticket #97
 **Ziel:**  
 - Schema für User erstellen, das vorgibt, wie ein User aufgebaut ist  
@@ -237,7 +235,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 
 `649e2c8` & `1015f05`: <br/>
   - Kleine Anpassung des User Schemas
-
+---
 ### Ticket #99
 **Ziel:**  
 - Schema für Events erstellen, das vorgibt, wie ein Event aufgebaut ist  
@@ -250,7 +248,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 `7f58152`: <br/>
   - Initiale Erstellung des Events Schema
 
-
+---
 ### Ticket #101
 **Ziel:**  
 - Schema für Umfragen erstellen, das vorgibt, wie eine Umfrage aufgebaut ist  
@@ -266,7 +264,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 
 `0c14c0d`: <br/>
   - Kleine Anpassung des Umfrage Schemas
-
+---
 ### Ticket #103
 **Ziel:**  
 - Schema für Gruppen erstellen, das vorgibt, wie eine Gruppe aufgebaut ist  
@@ -279,7 +277,7 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 
 `c1c8e92`: <br/>
   - Initiale Erstellung der Gruppen Schema
-
+---
 ### Ticket #124
 **Ziel:**  
 - Bugfix: Nach Logout konnte man mit dem Zurück-Button wieder auf die Seiten zugreifen, ohne sich anzumelden  

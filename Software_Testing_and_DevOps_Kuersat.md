@@ -10,7 +10,7 @@
 | Ticket [#142](https://github.com/SEPMFWS422A/time2meet/issues/142)  | [684ab9c](https://github.com/SEPMFWS422A/time2meet/commit/684ab9cdd81f61b051fbdf32762029e44da1fd24)  | Alle Commits: 100% |
 | Ticket [#176](https://github.com/SEPMFWS422A/time2meet/issues/176)  | [7eaa54a](https://github.com/SEPMFWS422A/time2meet/commit/7eaa54a733bff7a612501b6dc025e2616284c39b)  | Alle Commits: 100% |
 | Ticket [#177](https://github.com/SEPMFWS422A/time2meet/issues/177)  | [782167f](https://github.com/SEPMFWS422A/time2meet/commit/782167f14668012d57403058a55379f891b945b4)  | Alle Commits: 100% |
-
+---
 ### Ticket #59
 **Ziel:** 
 - Es sollte für die Komponente Profilsetting eine Umfassende End To End Test mit Cypress geschrieben werden
@@ -26,7 +26,7 @@
   
 `cd19dd1`: <br/>
   - Anpassung des End to End Test für Profilsettings (Login wurde hinzugefügt)
-
+---
 ### Ticket #139
 **Ziel:** 
 - Es sollte für die Komponente Friendlist eine Umfassende End To End Test mit Cypress geschrieben werden
@@ -38,7 +38,7 @@
   - End To End Test Friendlist hinzugefügt (Mit beachtung des modals für Freundessuche)
   - Friendlist Komponente Erweitert, um die IDs (suche für E2E vereinfacht)
   - Performenz Placeholder entfernt
-
+---
 
 ### Ticket #140
 **Ziel:** 
@@ -52,7 +52,7 @@
   - Unit Test für Freunde Entfernen API erstellt
   - Unit Test für Freundessuche API erstellt
   - Unit Test für die Freundesanzeige erstellt
-
+---
 
 
 ### Ticket #141
@@ -76,7 +76,7 @@
 
 `684ab9c`: <br/>
   - Struktur  des Unit Test angepasst(von test auf it )
-
+---
 ### Ticket #142
 **Ziel:** 
 - Hier sollte nur die Get Anfrage der Umfrageliste geprüft werden mit jest
@@ -98,7 +98,7 @@
 `7eaa54a`: <br/>
   - Integration Test mit jest für Friendlist erstellt
 
-
+---
 ### Ticket #177
 **Ziel:** 
 -  Hier sollte die Integrationstest für Profilsettings erstellt werden
@@ -109,13 +109,14 @@
 `782167f`: <br/>
   - Integration Test mit jest für Profilsettings erstellt
 
-
+---
 ### Tickets mit Punkteverteilung
 | Tickets  | Commits | Anteil |
 | ------------- | ------------- | ------------- | 
 | Ticket [#13](https://github.com/SEPMFWS422A/time2meet/issues/13)  | [1e5371b](https://github.com/SEPMFWS422A/time2meet/commit/1e5371b5d3552a5f3181461e407d2b6f0993f998#diff-4bf4596fa480c7d7d1fd4610517b5dbdda5315e292c9e0f9bf86e688b6cad4f2) <br/> [9b844c4](https://github.com/SEPMFWS422A/time2meet/commit/9b844c4bee6cf7061eaa74266988727df781e3ed)  | Alle Commits 50% aufgeteilt mit Kürsat Darcan; Timo Neuhaus |
 | Ticket [#106](https://github.com/SEPMFWS422A/time2meet/issues/106)  | [a3d0a54](https://github.com/SEPMFWS422A/time2meet/commit/a3d0a54aa151978879f054d8a7e30f59ab3d61ea) | Alle Commits 33.3% aufgeteilt mit Kürsat Darcan; Mohamed El Marraki; Timo Neuhaus |
 
+---
 ### Ticket #13
 **Ziel:**
 - Es sollte für die Generierung des .ics Dateis die Integrations Test erstellt werden.
@@ -129,7 +130,7 @@
 
 `9b844c4`: <br/>
   - Anpassung vorgenommen, das die werte nicht Statisch sondern Dynamisch getestet werden, wenn mehr Events hinzugefügt wird
-
+---
 ### Ticket #106
 **Ziel:** 
 - Ziel war es das Framework Jest ins Anwendung aufzunehmen.
