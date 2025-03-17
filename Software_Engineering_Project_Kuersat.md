@@ -41,26 +41,27 @@
   - Theme  
   - Möglichkeit, Passwort zu ändern  
 - Alle Commits in der Tabelle bilden das Ziel ab  
-<br/>
-**Commits:**  <br/>
+
+**Commits:**
+
 `6846749`:  <br/>
   - Initiale Erstellung der Profilsettings-Komponente  
   - Hinzufügen der Route  
   - Einpflegung der Route in die Navbar
-<br/>
+
 `a96e603`: <br/> 
   - Anpassung des Paddings von globaler Ebene auf Seitenebene  
-<br/>
+
 `eb5356f`:  <br/>
   - Unnötige Kommentare entfernt  
   - Einzelne HTML-Komponenten mit IDs versehen (für Tests)  
-<br/>
+
 `f49a029`:  <br/>
   - Einbindung der Navbar in die Profilsettings-Komponente  
-<br/>
+
 `83df405`:  <br/>
   - Validierungen für Profilsettings eingebaut (Profilbild, Geburtsjahr)  
-<br/>
+
 `10689fb`: <br/> 
   - Anpassung der E-Mail-Anzeige  
 
@@ -75,20 +76,22 @@ _Ticket #58 wurde im Ticket #98 mitbearbeitet_
   - User bearbeiten  
   - User löschen  
 - Anbindung ans Profilsetting (Ticket #58)  
-- Alle Commits in der Tabelle bilden das Ziel ab  <br/>
-**Commits:** <br/>
+- Alle Commits in der Tabelle bilden das Ziel ab
+
+**Commits:**
+
 `faa5c59`:<br/>
   - Installation von axios
   - Initiale Erstellung der APIs für User
   - Anbindung der User APIs in Profilsetting
-<br/>
+
 `e1cb7bb`:<br/>
   - Das hinzufügen des Decode fürs entschlüssen des Tokens
   - Anpassung des API Strukturs
-<br/>
+
 `e9c68b6`:<br/>
   - Anpassung am API und der Struktur
-<br/>
+
 `9e5fe56`:<br/>
   - Verbesserungsvorschlag vom Review übernommen
 
@@ -105,18 +108,20 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
   - Freunde entfernen  
   - Freunde favorisieren  
 - Anbindung an Friendlist (Ticket #126)  
-- Alle Commits in der Tabelle bilden das Ziel ab <br/>
-**Commits:**  <br/>
+- Alle Commits in der Tabelle bilden das Ziel ab
+
+**Commits:**
+
 `d31e4e9`:<br/>
   - Initiale hinzufügen vom Freundes API (get anfrage)
   - Initiale Anbindung ans Friendlist
-<br/>
+
 `ec879ca`:<br/>
   - weitere API anbindungen search => user; remove => Remove Friend; add => Add Friend
   - API Struktur angepasst
   - Weitere Komponente erstellt für die suche von Benutzer (direkte anbindung an search api)
   - Friendlist angepasst, das diese sich dynamisch anpasst
-<br/>
+
 `e69fd7f` & `2565c55`:<br/>
   - Kleine Anpassungen am Code vorgenommen (Performenz & Warning entfernt)
 
@@ -126,7 +131,8 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 **Ziel:**  
 - Nach Fertigstellung des Logins:  
   - Sign Up Button aus der Navbar entfernen  
-- Commit in der Tabelle bildet das Ziel ab  <br/>
+- Commit in der Tabelle bildet das Ziel ab
+
 **Commits:** <br/>
 `f1558b4`:
   - Sign Up Button entfernt
@@ -138,19 +144,20 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Ursprünglich war geplant, dass für die Umfrageseite zwei APIs hinzugefügt werden sollen:  
   - Eine API für alle Umfragen, bei denen man Creator ist  
   - Eine API für alle Umfragen, bei denen man Teilnehmer ist  
-<br/>
-**Commits:**  <br/>
+
+**Commits:**
+
 `0c14c0d`: <br/> 
   - Zwei APIs erstellt  
   - API 1: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Creator ist  
   - API 2: Gibt Umfragen zurück, bei denen der aktuelle Benutzer Teilnehmer ist  
-<br/>
+
 `0d96967`:  <br/>
   - Nach Rücksprache mit Finn Leo Katzenberger:  
     - Nur eine API bleibt erhalten  
     - Diese filtert nach Teilnehmern  
     - Frontend filtert dann selbst nach dem Creator, bei dem der aktuelle User eingetragen ist  
-<br/>
+
 `14c872b`:  <br/>
   - Problem: API konnte Umfragen nicht finden, da keine ObjectID gelesen werden konnte  
   - Finn Leo Katzenberger hat bei der Recherche geholfen
