@@ -196,10 +196,13 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - Zum Zeitpunkt stand nur der MVP  
   - Ziel: Statische Events exportieren als `.ics`-Datei
+
 **Commits**
-`bd11967`
+
+`bd11967`: <br/>
   - Initiale erstellung des ICS Download
-`1a7409f` & `36d2e45`
+
+`1a7409f` & `36d2e45`: <br/>
   - Kleine Anpassung der Struktur
 
 
@@ -210,10 +213,13 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - Recherche wurde von allen betrieben  
   - Pair Programming wurde verwendet, um die Datenbanken hinzuzufügen  
+
 **Commits**
-`f28372d`
+
+`f28372d`: <br/>
   - Initiale Erstellung der Datenbanken anbindung
-`a5a44c6`
+
+`a5a44c6`: <br/>
   - Anpassung der Datenbanken verbindung
 
 ### Ticket #97
@@ -223,10 +229,13 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - Im Team besprochen, welche Variablen/Parameter notwendig sind  
   - Schema entsprechend hinzugefügt  
+
 **Commits**
-`af0367e`
+
+`af0367e`: <br/>
   - Initiale Erstellung des User Schema
-`649e2c8` & `1015f05`
+
+`649e2c8` & `1015f05`: <br/>
   - Kleine Anpassung des User Schemas
 
 ### Ticket #99
@@ -236,8 +245,9 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - In der Gruppe besprochen, welche Variablen/Parameter notwendig sind  
   - Schema entsprechend hinzugefügt  
+
 **Commits**
-`7f58152`
+`7f58152`: <br/>
   - Initiale Erstellung des Events Schema
 
 
@@ -248,10 +258,13 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - In der Gruppe besprochen, welche Variablen/Parameter notwendig sind  
   - Schema entsprechend hinzugefügt  
+
 **Commits**
-`d5c7203`
+
+`d5c7203`: <br/>
   - Initiale Erstellung des Umfrage Schema
-`0c14c0d`
+
+`0c14c0d`: <br/>
   - Kleine Anpassung des Umfrage Schemas
 
 ### Ticket #103
@@ -261,8 +274,10 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - In der Gruppe besprochen, welche Variablen/Parameter notwendig sind  
   - Umsetzung durch Pair Programming  
+
 **Commits**
-`c1c8e92`
+
+`c1c8e92`: <br/>
   - Initiale Erstellung der Gruppen Schema
 
 ### Ticket #124
@@ -272,8 +287,10 @@ _Ticket #126 wurde im Ticket #108 mitbearbeitet, Commit mit Verbesserung wurde i
 - Vorgehen:  
   - Recherche, wie man das Problem am besten löst  
   - Umsetzung durch gemeinsames Wissen
+
 **Commits**
-`0fd9568`
+
+`0fd9568`: <br/>
   - Behebung des Bugs 
   - das hinzufügen des PreventBackNavigation
   - Anpassung des Middelware und Logout API
